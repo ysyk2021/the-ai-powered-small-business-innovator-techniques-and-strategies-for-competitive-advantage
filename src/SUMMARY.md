@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why utilizing AI is important for small business innovation and competitive advantage](chapter-1-2.md)
 - [Chapter 2: Understanding AI for Small Business Innovation](chapter-2.md)
   - [Historical overview of AI for small businesses](chapter-2-1.md)
