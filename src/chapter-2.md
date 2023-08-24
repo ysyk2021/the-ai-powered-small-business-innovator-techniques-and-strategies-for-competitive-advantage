@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI for Small Business Innovation
-=========================================================
 
 AI technology is rapidly transforming the small business landscape, providing new opportunities for innovation and competitive advantage. In this chapter, we will provide an overview of AI for small business innovation, including its history, types, and how it works.
 

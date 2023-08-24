@@ -1,5 +1,3 @@
-Developing an AI Strategy
-===================================================================================
 
 Developing a clear and effective strategy is essential for small businesses looking to integrate AI into their operations. In this chapter, we will discuss the key steps involved in developing an AI strategy for small business innovation.
 

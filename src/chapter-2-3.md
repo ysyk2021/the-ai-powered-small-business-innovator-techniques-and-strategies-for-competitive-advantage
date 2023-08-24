@@ -1,5 +1,3 @@
-How AI Works for Small Business Innovation
-=====================================================================================================
 
 AI technology is rapidly transforming the small business landscape, providing new opportunities for innovation and competitive advantage. In this chapter, we will discuss how AI works for small business innovation.
 

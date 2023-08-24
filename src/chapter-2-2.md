@@ -1,5 +1,3 @@
-Types of AI for Small Business Innovation
-====================================================================================================
 
 AI technology is rapidly transforming the small business landscape, providing new opportunities for innovation and competitive advantage. In this chapter, we will discuss different types of AI that small businesses can leverage for innovation and growth.
 

@@ -1,5 +1,3 @@
-Addressing Potential Bias
-===============================================================================
 
 One of the challenges of using AI in small businesses is the potential for bias. AI algorithms rely on data to make decisions, and if that data contains biases, those biases can be amplified by the algorithm.
 

@@ -1,5 +1,3 @@
-Legal Considerations
-===============================================================================
 
 When implementing AI solutions for small business innovation, it is important to consider the legal implications of this technology. In this chapter, we will discuss some of the key legal considerations that small businesses must take into account when implementing AI solutions.
 

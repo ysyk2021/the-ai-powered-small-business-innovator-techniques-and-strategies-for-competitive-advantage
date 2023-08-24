@@ -1,5 +1,3 @@
-Historical Overview of AI for Small Businesses
-=========================================================================================================
 
 AI technology has a long and fascinating history, with many notable milestones and breakthroughs. In this chapter, we will provide a historical overview of AI for small businesses, highlighting key moments and developments that have shaped the field.
 

@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-==============================================================================================
 
 As small businesses integrate AI into their operations, it is important to ensure transparency and accountability in the use of this technology. In this chapter, we will discuss the importance of transparency and accountability in AI management and provide strategies for achieving these goals.
 

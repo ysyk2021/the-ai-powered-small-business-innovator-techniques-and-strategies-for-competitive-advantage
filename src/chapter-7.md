@@ -1,5 +1,3 @@
-Chapter 7: Managing AI for Small Business Innovation
-====================================================
 
 Effective management of AI is critical for small businesses to successfully implement and leverage this technology. In this chapter, we will discuss strategies for managing AI in small business innovation.
 
