@@ -8,3 +8,7 @@ Throughout this book, we will provide practical guidance on how to implement AI 
 Whether you are just starting out in your small business journey or looking to take your strategy to the next level, this book will provide valuable insights into how AI can help you to innovate and grow. So let's dive in and explore the exciting possibilities of using AI to power innovation in small businesses!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
