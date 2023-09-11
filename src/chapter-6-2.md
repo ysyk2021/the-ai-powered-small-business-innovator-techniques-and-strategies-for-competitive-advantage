@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques and strategies for overcoming resistance to change when implementing AI-powered innovations in small businesses. Change can often be met with resistance from employees, stakeholders, and even business owners. However, overcoming this resistance is crucial to successfully harness the power of AI and gain a competitive advantage. This chapter provides insights and practical approaches to navigate and address resistance to change effectively.
 

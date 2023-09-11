@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI for Small Businesses
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the historical development and evolution of AI for small businesses. While AI has gained significant attention in recent years, its roots can be traced back several decades. Understanding the historical context of AI provides valuable insights into the progression of AI technologies and their application to small business innovation.
 

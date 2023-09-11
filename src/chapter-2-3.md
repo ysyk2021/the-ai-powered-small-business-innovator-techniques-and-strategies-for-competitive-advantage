@@ -1,5 +1,4 @@
-Chapter 5: How AI Works for Small Business Innovation
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the inner workings of how AI empowers small businesses to drive innovation and gain a competitive advantage. Understanding the underlying mechanisms of AI is crucial for small business owners and entrepreneurs to harness its full potential. This chapter provides insights into the fundamental concepts and processes that enable AI's effectiveness in small business innovation.
 

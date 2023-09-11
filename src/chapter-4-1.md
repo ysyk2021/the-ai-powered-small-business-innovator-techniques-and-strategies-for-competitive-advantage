@@ -1,5 +1,4 @@
-Chapter 10: Ethical Considerations
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that small businesses need to address when leveraging AI-powered technologies for competitive advantage. As AI continues to play a significant role in transforming business operations, it is crucial for small businesses to navigate these innovations responsibly and ethically. This chapter provides insights into key ethical considerations and strategies for small businesses to ensure the responsible adoption of AI.
 

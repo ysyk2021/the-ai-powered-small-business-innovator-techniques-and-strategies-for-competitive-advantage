@@ -1,5 +1,4 @@
-Chapter 4: Types of AI for Small Business Innovation
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore different types of AI that can be utilized by small businesses to drive innovation and gain a competitive advantage. Each type of AI has its own unique characteristics and applications, allowing small businesses to choose the most suitable approach based on their specific innovation goals. This chapter provides insights into various types of AI and how they can contribute to small business innovation.
 

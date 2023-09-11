@@ -1,5 +1,4 @@
-Chapter 6: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing an effective AI strategy for small businesses. Crafting a well-defined AI strategy is crucial for leveraging the power of artificial intelligence and gaining a competitive advantage. This chapter provides a step-by-step guide to help small businesses develop a robust AI strategy.
 

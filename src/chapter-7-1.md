@@ -1,5 +1,4 @@
-Chapter 6: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of effective data management in leveraging AI for small business innovation and gaining a competitive advantage. Data is the fuel that powers AI systems, and proper management of data is essential for accurate analysis, model development, and decision-making. This chapter provides insights into key aspects of data management for small businesses harnessing the power of AI.
 
